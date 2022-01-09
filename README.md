@@ -11,7 +11,6 @@
 * HTML
 * Css
 * MySQL
-* Bootstrap
 
 ### 실행 화면
 * 게시물 등록<br/>
